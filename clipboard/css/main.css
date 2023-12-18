@@ -1,0 +1,296 @@
+body{
+    font-family: 'Bai Jamjuree', sans-serif;
+font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    width: 1440px; 
+    /* border: solid 1px red;  */
+    height: 440vh;
+}
+
+.top{
+    width: 1140px;
+    background-image: url(/images/bg-header-desktop.png);
+    height: 40vh;
+}
+
+.logo{
+    margin-left: 500px;
+    margin-top: 150px;
+}
+
+.second{
+    /* border: solid 1px red; */
+    height: 40vh;
+    text-align: center;
+}
+
+.history{
+    font-size: 25px;
+    font-weight: 700;
+    color: hsl(210, 10%, 33%);
+}
+
+.clip{
+    font-size: 15px;
+    color:  hsl(201, 11%, 66%);
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.buttons{
+    margin-top: 10px;
+}
+
+.btn-success{
+    background-color: hsl(171, 66%, 44%);
+    padding: 6px 20px;
+    border-radius: 25px;
+    border: none;
+}
+
+/* .btn-success:hover{
+    background-color: hsl(171, 66%, 44%);
+} */
+
+.btn-primary{
+    background-color: hsl(233, 100%, 69%);
+    padding: 6px 20px;
+    border-radius: 25px;
+    border: none;
+    margin-left: 10px;
+}
+
+/* .btn-primary:hover{
+    background-color: hsl(233, 100%, 69%);
+} */
+
+.third{
+    /* border: solid 1px red; */
+    height: 20vh;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.keep{
+    font-size: 20px;
+    font-weight: 700;
+    color: hsl(210, 10%, 33%);
+}
+
+.clipboard{
+    font-size: 13px;
+    color:  hsl(201, 11%, 66%);
+    margin-top: 20px;
+}
+
+.fourth{
+    /* border: solid 1px red; */
+    height: 62vh;
+    /* text-align: center; */
+    margin-top: 50px;
+}
+
+.list{
+    margin-left: 700px;
+    margin-top: -340px;
+}
+
+.quick{
+    font-size: 17px;
+    font-weight: 700;
+    color: hsl(210, 10%, 33%); 
+}
+
+.easily{
+    font-size: 11px;
+    color:  hsl(201, 11%, 66%);
+    margin-top: 5px;
+    line-height: 20px;
+}
+
+.fifth{
+    /* border: solid 1px red; */
+    height: 14vh;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.access{
+    font-size: 20px;
+    font-weight: 700;
+    color: hsl(210, 10%, 33%);
+}
+
+.whether{
+    font-size: 13px;
+    color:  hsl(201, 11%, 66%);
+    margin-top: 20px;
+}
+
+.sixth{
+    /* border: solid 1px red; */
+    height: 65vh;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.seventh{
+    /* border: solid 1px red; */
+    height: 12vh;
+    text-align: center;
+    margin-top: 90px;
+}
+
+.eighth{
+    /* border: solid 1px red; */
+    height: 30vh;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.preview{
+    margin-left: 500px;
+}
+
+.sneak{
+    margin-left: 500px;
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: 500;
+    color: hsl(210, 10%, 33%);
+}
+
+.sneak-quick{
+    margin-left: 500px;
+    margin-top: 8px;
+    font-size: 12px;
+    color:  hsl(201, 11%, 66%);
+}
+
+.text{
+    margin-top: -235px;
+    margin-right: 50px;
+}
+
+.plain{
+    margin-top: -95px;
+    margin-right: 35px;
+    font-size: 18px;
+    font-weight: 500;
+    color: hsl(210, 10%, 33%);
+}
+
+.remove{
+    margin-right: 40px;
+    margin-top: 8px;
+    font-size: 12px;
+    color:  hsl(201, 11%, 66%);
+}
+
+.blacklist{
+    margin-right: 580px;
+    margin-top: -225px;
+}
+
+.create{
+    margin-right: 580px;
+    margin-top: -95px;
+    font-size: 18px;
+    font-weight: 500;
+    color: hsl(210, 10%, 33%);
+}
+
+.ensure{
+    margin-right: 580px;
+    margin-top: 5px;
+    font-size: 12px;
+    color:  hsl(201, 11%, 66%);
+}
+
+.ninth{
+    /* border: solid 1px red; */
+    height: 15vh;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.com{
+    padding: 0 30px;
+}
+
+.tenth{
+    /* border: solid 1px red; */
+    height: 30vh;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.last{
+    /* border: solid 1px red; */
+    height: 25vh;
+    text-align: center;
+    margin-top: 80px;
+    background-color: whitesmoke;
+}
+
+.socials{
+    margin-left: 750px;
+    margin-top: 70px;
+}
+
+.install{
+    margin-left: 100px;
+    margin-top: -60px;
+    font-size: 13px;
+    color:  hsl(201, 11%, 66%);
+}
+
+.social{
+    padding: 0 15px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    padding-bottom: 17px;
+    font-size: 13px;
+    color:  hsl(201, 11%, 66%);
+}
+
+.press{
+    padding-right: 20px;
+}
+
+.con{
+    padding-left: 22px;
+}
+
+.privacy{
+    margin-right: 230px;
+    margin-top: -20px;
+}
+
+.faq{
+    margin-right: 480px;
+    margin-top: -88px;
+}
+
+.l-logo{
+    margin-right: 800px;
+    margin-top: -170px;
+}
+
+a{
+    text-decoration: none;
+    color: hsl(201, 11%, 66%);
+}
+
+a:hover{
+    color: hsl(171, 66%, 44%);
+}
